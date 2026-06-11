@@ -2,7 +2,9 @@
 
 ### A passionate full-stack developer with AI-powered solutions
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sxuan-Coder&label=Profile views&color=0e75b6&style=flat" alt="Sxuan-Coder" /> </p>
+<p align="left">
+  <img src="https://count.getloli.com/get/@Sxuan-Coder" alt="Profile Views" />
+</p>
 
 - 🤝 I'm looking for help with **May well-paid jobs send me job offers**
 
