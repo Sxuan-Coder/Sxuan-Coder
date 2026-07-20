@@ -1,23 +1,86 @@
-# Hi 👋, I'm 上玄(Sxuan)
+<div align="center">
 
-### A passionate full-stack developer with AI-powered solutions
+# 上玄 (Sxuan)
 
-<p align="left">
+### Full-Stack Developer · AI-Powered Solutions
+
+<p>
   <img src="https://count.getloli.com/get/@Sxuan-Coder" alt="Profile Views" />
 </p>
 
-- 🤝 I'm looking for help with **May well-paid jobs send me job offers**
+`Java` `Spring` `Python` `Go` `Vue` `Docker` `AI/LLM` `React`
 
-- 💬 **Make Java Great Again.**
+</div>
 
-- 📫 How to reach me **1421148240@qq.com**
+---
 
-- ⚡ Fun fact **All the malice in the world is pouring towards Java developer.**
+## 关于我
 
-- 👨‍💻 My site **[https://sxuan.top/](https://sxuan.top/)**
+全栈开发者，专注于 AI 驱动的应用解决方案。热爱 Java 生态，同时活跃在前端、云原生与 AI Agent 领域。
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sxuan-Coder&show_icons=true&locale=en&layout=compact" alt="Sxuan-Coder" /></p>
+## 联系我
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sxuan-Coder&show_icons=true&locale=en" alt="Sxuan-Coder" /></p>
+- 个人网站：**[sxuan.top](https://sxuan.top/)**
+- 邮箱：**sxuan@duck.com**
+
+## 技术栈
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,py,go,ts,js,vue,react,electron,nodejs,docker,kubernetes,linux,git,mysql,postgres,redis,kafka,rabbitmq,nginx&perline=10" alt="Tech stack" />
+</p>
+
+## 当前关注
+
+- 全栈应用开发与 AI Native 集成
+- AI Agent 与 Multi-Agent 架构设计
+- Java 生态与云原生架构
+- 开发者工具链与效率提升
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/Sxuan-Coder">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sxuan-Coder&bg_color=ffffff&color=2d3436&line=6c5ce7&point=00b894&area=true&area_color=dfe6e9&hide_border=true&custom_title=GitHub%20Contribution%20Activity" alt="GitHub contribution activity graph" />
+</a>
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/Sxuan-Coder">
+  <img height="168" src="https://raw.githubusercontent.com/Sxuan-Coder/Sxuan-Coder/main/profile/stats.svg" alt="GitHub stats" />
+</a>
+<a href="https://github.com/Sxuan-Coder?tab=repositories">
+  <img height="168" src="https://raw.githubusercontent.com/Sxuan-Coder/Sxuan-Coder/main/profile/top-langs.svg" alt="Top languages" />
+</a>
+
+</div>
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="https://github.com/Sxuan-Coder">
+    <img src="https://img.shields.io/github/followers/Sxuan-Coder?label=Followers&style=for-the-badge&color=6c5ce7" alt="GitHub followers" />
+  </a>
+  <a href="https://sxuan.top/">
+    <img src="https://img.shields.io/badge/Website-sxuan.top-0984e3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:sxuan@duck.com">
+    <img src="https://img.shields.io/badge/Email-sxuan@duck.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<div align="center">
+
+> Code. Build. Ship. Repeat.
+
+</div>
