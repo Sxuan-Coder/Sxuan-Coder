@@ -2,7 +2,7 @@
 
 # 上玄 (Sxuan)
 
-### Full-Stack Developer · AI-Powered Solutions
+### Full-Stack Developer
 
 <p>
   <img src="https://count.getloli.com/get/@Sxuan-Coder" alt="Profile Views" />
@@ -16,7 +16,7 @@
 
 ## 关于我
 
-全栈开发者，专注于 AI 驱动的应用解决方案。热爱 Java 生态，同时活跃在前端、云原生与 AI Agent 领域。
+全栈开发者
 
 ## 联系我
 
@@ -32,8 +32,6 @@
 ## 当前关注
 
 - 全栈应用开发与 AI Native 集成
-- AI Agent 与 Multi-Agent 架构设计
-- Java 生态与云原生架构
 - 开发者工具链与效率提升
 
 ---
